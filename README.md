@@ -3,7 +3,7 @@
 <div align="center">
   <br />
     <a href="https://github.com/AshishKFrontend/Aura-Modern-UI">
-      <img src="https://via.placeholder.com/1200x500?text=AURA+Cinema+Experience" alt="AURA Banner">
+      <img width="947" height="473" alt="Screenshot 2025-12-28 220804" src="https://github.com/user-attachments/assets/6d31f50b-bb20-49a1-8ad6-456ac5c6016f" />
     </a>
   <br />
 
