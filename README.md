@@ -14,7 +14,7 @@
   </p>
 
   <p>
-    <a href="https://your-username.github.io/repo-name/" target="_blank">
+    <a href="https://ashishkfrontend.github.io/Aura-Modern-Fashion-UI/" target="_blank">
       <img src="https://img.shields.io/badge/LIVE_DEMO-View_Site-ff0055?style=for-the-badge&logo=vercel" alt="Live Demo" />
     </a>
     <a href="https://github.com/AshishKFrontend/repo-name/issues">
